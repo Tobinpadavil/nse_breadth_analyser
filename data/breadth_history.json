@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2025-11-26",
+    "score": 0.389,
+    "regime": "WEAK BULL \u26a0\ufe0f"
+  },
+  {
+    "date": "2025-11-27",
+    "score": 0.01,
+    "regime": "NO TRADE ZONE \ud83d\udeab"
+  },
+  {
+    "date": "2025-11-28",
+    "score": 0.029,
+    "regime": "NO TRADE ZONE \ud83d\udeab"
+  },
+  {
+    "date": "2025-12-01",
+    "score": 0.067,
+    "regime": "NO TRADE ZONE \ud83d\udeab"
+  },
+  {
+    "date": "2025-12-02",
+    "score": -0.019,
+    "regime": "NO TRADE ZONE \ud83d\udeab"
+  },
+  {
+    "date": "2025-12-03",
+    "score": -0.25,
+    "regime": "WEAK BEAR \u26a0\ufe0f"
+  },
+  {
+    "date": "2025-12-04",
+    "score": -0.005,
+    "regime": "NO TRADE ZONE \ud83d\udeab"
+  },
+  {
+    "date": "2025-12-05",
+    "score": 0.062,
+    "regime": "NO TRADE ZONE \ud83d\udeab"
+  },
+  {
+    "date": "2025-12-08",
+    "score": -0.641,
+    "regime": "STRONG BEAR \ud83d\udcc9"
+  },
+  {
+    "date": "2025-12-09",
+    "score": 0.167,
+    "regime": "WEAK BULL \u26a0\ufe0f"
+  }
+]
